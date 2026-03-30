@@ -12,6 +12,7 @@
       <class name="testCases.TC001_AccountRegistrationTest"/> 
          <class name="testCases.TC002_LoginTest"/> 
       <!-- <class name="testCases.TC003_LoginDDT"/>-->
+      <class name="testCases.TC004_SearchTest"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

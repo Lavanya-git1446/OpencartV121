@@ -1,45 +1,9 @@
-2026-03-29 16:23:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\l.bhagavanthappa\Downloads\OpencartV121\master.xml"
-2026-03-29 16:23:55 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest *****
-2026-03-29 16:23:55 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount link
-2026-03-29 16:23:56 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register link
-2026-03-29 16:23:56 INFO  TC001_AccountRegistrationTest:30 - Providing Customer Details
-2026-03-29 16:23:58 INFO  TC001_AccountRegistrationTest:49 - Validating Expected message
-2026-03-29 16:23:58 INFO  TC001_AccountRegistrationTest:69 - *****Finished TC001_AccountRegistrationTest *****
-2026-03-29 16:24:06 INFO  TC002_LoginTest:16 - ****Starting TC_002 LoginTest*****
-2026-03-29 16:24:08 INFO  TC002_LoginTest:37 - ****Finish TC_002 LoginTest*****
-2026-03-29 17:27:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\l.bhagavanthappa\Downloads\OpencartV121\master.xml"
-2026-03-29 17:27:35 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest *****
-2026-03-29 17:27:35 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount link
-2026-03-29 17:27:35 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register link
-2026-03-29 17:27:35 INFO  TC001_AccountRegistrationTest:30 - Providing Customer Details
-2026-03-29 17:27:37 INFO  TC001_AccountRegistrationTest:49 - Validating Expected message
-2026-03-29 17:27:37 INFO  TC001_AccountRegistrationTest:69 - *****Finished TC001_AccountRegistrationTest *****
-2026-03-29 17:27:44 INFO  TC002_LoginTest:16 - ****Starting TC_002 LoginTest*****
-2026-03-29 17:27:46 INFO  TC002_LoginTest:37 - ****Finish TC_002 LoginTest*****
-2026-03-29 17:32:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\l.bhagavanthappa\Downloads\OpencartV121\master.xml"
-2026-03-29 17:32:53 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest *****
-2026-03-29 17:32:53 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount link
-2026-03-29 17:32:54 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register link
-2026-03-29 17:32:54 INFO  TC001_AccountRegistrationTest:30 - Providing Customer Details
-2026-03-29 17:32:56 INFO  TC001_AccountRegistrationTest:49 - Validating Expected message
-2026-03-29 17:32:56 INFO  TC001_AccountRegistrationTest:69 - *****Finished TC001_AccountRegistrationTest *****
-2026-03-29 17:33:04 INFO  TC002_LoginTest:16 - ****Starting TC_002 LoginTest*****
-2026-03-29 17:33:07 INFO  TC002_LoginTest:37 - ****Finish TC_002 LoginTest*****
-2026-03-29 17:34:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\l.bhagavanthappa\Downloads\OpencartV121\master.xml"
-2026-03-29 17:34:44 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest *****
-2026-03-29 17:34:44 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount link
-2026-03-29 17:34:44 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register link
-2026-03-29 17:34:44 INFO  TC001_AccountRegistrationTest:30 - Providing Customer Details
-2026-03-29 17:34:46 INFO  TC001_AccountRegistrationTest:49 - Validating Expected message
-2026-03-29 17:34:46 INFO  TC001_AccountRegistrationTest:69 - *****Finished TC001_AccountRegistrationTest *****
-2026-03-29 17:34:54 INFO  TC002_LoginTest:16 - ****Starting TC_002 LoginTest*****
-2026-03-29 17:34:56 INFO  TC002_LoginTest:37 - ****Finish TC_002 LoginTest*****
-2026-03-29 17:40:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\l.bhagavanthappa\Downloads\OpencartV121\master.xml"
-2026-03-29 17:41:07 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest *****
-2026-03-29 17:41:07 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount link
-2026-03-29 17:41:08 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register link
-2026-03-29 17:41:08 INFO  TC001_AccountRegistrationTest:30 - Providing Customer Details
-2026-03-29 17:41:10 INFO  TC001_AccountRegistrationTest:49 - Validating Expected message
-2026-03-29 17:41:10 INFO  TC001_AccountRegistrationTest:69 - *****Finished TC001_AccountRegistrationTest *****
-2026-03-29 17:41:22 INFO  TC002_LoginTest:16 - ****Starting TC_002 LoginTest*****
-2026-03-29 17:41:25 INFO  TC002_LoginTest:37 - ****Finish TC_002 LoginTest*****
+2026-03-30 13:59:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\l.bhagavanthappa\Downloads\OpencartV121\master.xml"
+2026-03-30 13:59:24 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest *****
+2026-03-30 13:59:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount link
+2026-03-30 13:59:25 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register link
+2026-03-30 13:59:25 INFO  TC001_AccountRegistrationTest:30 - Providing Customer Details
+2026-03-30 13:59:28 INFO  TC001_AccountRegistrationTest:49 - Validating Expected message
+2026-03-30 13:59:28 INFO  TC001_AccountRegistrationTest:69 - *****Finished TC001_AccountRegistrationTest *****
+2026-03-30 13:59:39 INFO  TC002_LoginTest:16 - ****Starting TC_002 LoginTest*****
+2026-03-30 13:59:41 INFO  TC002_LoginTest:37 - ****Finish TC_002 LoginTest*****

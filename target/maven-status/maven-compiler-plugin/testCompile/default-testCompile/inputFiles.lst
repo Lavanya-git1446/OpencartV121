@@ -3,10 +3,13 @@ C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\pageObjects\BaseP
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\pageObjects\HomePage.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\pageObjects\LoginPage.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\pageObjects\Search.java
+C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\pageObjects\SearchPage.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\testBase\BaseClass.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\testCases\TC004_SearchTest.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\utilities\DataProviders.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\utilities\ExcelUtility.java
 C:\Users\l.bhagavanthappa\Downloads\OpencartV121\src\test\java\utilities\ExtentReportManager.java
